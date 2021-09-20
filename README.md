@@ -5,10 +5,9 @@
 
 - 📫 How to reach me: 
 
-email: danielmaia@labrec.pro.br
-instagram: @danielmaia.br
-           @labrec.br
-           @rizomadigital.br
+email: danielmaia@labrec.pro.br | danielmaiahist@gmail.com
+
+instagram: [@danielmaia.br](https://www.instagram.com/danielmaia.br) | [@labrec.br](https://www.instagram.com/labrec.br) | [@rizomadigital.br](https://www.instagram.com/rizomadigital.br)
 
 <!---
 labrec/labrec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
